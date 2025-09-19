@@ -62,5 +62,5 @@ def organize_problems(base: str, name: str, dest: str, dest_name: str, config_pa
 
 
 if __name__ == '__main__':
-    organize_problems('C:/Users/Lo Hsuan/OneDrive/Applications/GitHub/Neptune-Books/TFGHS-star/answers/science', '111.tex', 'C:/Users/Lo Hsuan/OneDrive/Applications/GitHub/Neptune-Books/TFGHS-star/answers/science/altogether', '111.tex', 'information.json')
+    organize_problems('C:/Users/Lo Hsuan/OneDrive/Applications/GitHub/Neptune-Books/CKHS-star/problems/science', '113.tex', 'C:/Users/Lo Hsuan/OneDrive/Applications/GitHub/Neptune-Books/CKHS-star/problems/science/altogether', '113.tex', 'information.json')
     
